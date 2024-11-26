@@ -1,0 +1,14 @@
+altair
+folium
+matplotlib
+numpy
+pandas
+requests
+seaborn
+streamlit
+
+streamlit-option-menu
+streamlit-lottie
+
+streamlit-pandas-profiling
+pandas-profiling
