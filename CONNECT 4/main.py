@@ -34,7 +34,7 @@ def draw_board(board):
     for c in range(COLUMS):
         for r in range(ROWS):
             pg.draw.rect(screen, BLUE, (c*SQUARE_SIZE, r*SQUARE_SIZE+SQUARE_SIZE, SQUARE_SIZE, SQUARE_SIZE))
-            pg.draw.circle(screen, BLACK, (c*SQUARE_SIZE + SQUARE_SIZE//2, r*SQUARE_SIZE + SQUARE_SIZE//2), RADIUS)
+            pg.draw.circle(screen, BLACK, (c*SQUARE_SIZE + SQUARE_SIZE//2, r*SQUARE_SIZE + SQUARE_SIZE + SQUARE_SIZE//2), RADIUS)
             
             
     for c in range(COLUMS):
@@ -54,10 +54,9 @@ def drop_circle(board,row,col,circle):
 def valid_location(board,col):
     return board[ROWS-1,col] == 0
 
-# X
-def nxt_open_row(board,col):
+def nxt_open_row(board,c):
     for r in range(ROWS):
-        if board[r,col] == 0: # that will mean that it's empty
+        if board[r,c] == 0: # that will mean that it's empty
             return r
 
 # It will tell us who wins
@@ -92,6 +91,7 @@ def check_winning(board,piece):
 
 ### VARIABLES & INITIALIZATION ###
 board = build_board()
+show_board(board)
 game_over = False
 turn = 0
 
@@ -112,51 +112,48 @@ while not game_over:
             sys.exit()
 
         if event.type == pg.MOUSEMOTION:
-            pg.draw.rect(screen,BLACK,(0,0,width,SQUARE_SIZE))
+            pg.draw.rect(screen, BLACK, (0, 0, width, SQUARE_SIZE))
             x_position = event.pos[0]
             if turn == 0:
-                pg.draw.circle(screen,RED,(x_position,SQUARE_SIZE//2),RADIUS)
+                pg.draw.circle(screen, RED, (x_position, SQUARE_SIZE // 2), RADIUS)
             else:
-                pg.draw.circle(screen,YELLOW,(x_position,SQUARE_SIZE//2),RADIUS)
-        pg.display.update()
+                pg.draw.circle(screen, YELLOW, (x_position, SQUARE_SIZE // 2), RADIUS)
+            pg.display.update()
 
         if event.type == pg.MOUSEBUTTONDOWN:
-            pg.draw.rect(screen,BLACK,(0,0,width,SQUARE_SIZE))
+            pg.draw.rect(screen, BLACK, (0, 0, width, SQUARE_SIZE))
 
-            if turn == 0:
-                # P1
-                x_position = event.pos[0]
-                col = int(math.floor(x_position/SQUARE_SIZE))
-                #NOTE: añadir try para que se asegure de que es un nº del 0 al 6
+            x_position = event.pos[0]
+            col = int(math.floor(x_position / SQUARE_SIZE))
 
-                if valid_location(board,col):
-                    row = nxt_open_row(board,col)
-                    drop_circle(board,row,col,1) # where 1 refers to P1
+            if valid_location(board, col):
+                row = nxt_open_row(board, col)
 
-                    if check_winning(board,1):
-                        label = myfont.render("Player 1 wins!",1,RED)
-                        screen.blit(label,(40,300))
+                if turn == 0:
+                    # Player 1
+                    drop_circle(board, row, col, 1)
+
+                    if check_winning(board, 1):
+                        label = myfont.render("Player 1 wins!", 1, RED)
+                        screen.blit(label, (40, 10))  # Adjust position as needed
+                        pg.display.update()  # Ensure message is shown immediately
+                        game_over = True
+                else:
+                    # Player 2
+                    drop_circle(board, row, col, 2)
+
+                    if check_winning(board, 2):
+                        label = myfont.render("Player 2 wins!", 1, YELLOW)
+                        screen.blit(label, (40, 10))  # Adjust position as needed
+                        pg.display.update()  # Ensure message is shown immediately
                         game_over = True
 
-            else:
-                # P2
-                x_position = event.pos[0]
-                col = int(math.floor(x_position/SQUARE_SIZE))
-                #NOTE: añadir try para que se asegure de que es un nº del 0 al 6
-                
-                if valid_location(board,col):
-                    row = nxt_open_row(board,col)
-                    drop_circle(board,row,col,2) # where 2 refers to P2
-
-                    if check_winning(board,2):
-                        label = myfont.render("Player 2 wins!",2,YELLOW)
-                        screen.blit(label,(40,300))
-                        game_over = True
-
-    print(show_board(board))
-    draw_board(board)
-    turn +=1
-    turn = turn%2 # alternará entre 0 y 1
+                # Draw the board and alternate turn after a valid move
+                print(board)
+                draw_board(board)
+                turn += 1
+                turn = turn % 2
 
     if game_over:
+        pg.display.update()
         pg.time.delay(3000)
