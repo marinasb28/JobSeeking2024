@@ -23,8 +23,7 @@ YELLOW = (255,255,0)
 
 # Builds a matrix of 0
 def build_board():
-    board = np.zeros((ROWS,COLUMS))
-    return board
+    return np.zeros((ROWS, COLUMS))
 
 # Flip the board to show it correctly
 def show_board(board):
