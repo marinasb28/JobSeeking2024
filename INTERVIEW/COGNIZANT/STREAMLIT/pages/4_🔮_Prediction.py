@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
 import numpy as np
-import INTERVIEW.COGNIZANT.STREAMLIT.main_cognizant as mp
+import main_cognizant as mp
 
 if not st.session_state.page == "Prediction":
     st.set_page_config(
