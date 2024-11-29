@@ -1,0 +1,3 @@
+https://youtu.be/BXAeMICmUSQ?si=nxpfsmuhnuivSxFj
+pip install pipreqrs
+pipreqrs
