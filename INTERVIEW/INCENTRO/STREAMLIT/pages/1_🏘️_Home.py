@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 import time
 import streamlit.components.v1 as components
-import INTERVIEW.INCENTRO.STREAMLIT.main_incentro as mp
+import main_incentro as mp
 
 
 if not st.session_state.page == "Home":

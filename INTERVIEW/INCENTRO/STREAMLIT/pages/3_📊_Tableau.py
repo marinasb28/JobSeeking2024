@@ -1,5 +1,5 @@
 import streamlit as st
-import INTERVIEW.INCENTRO.STREAMLIT.main_incentro as mp
+import main_incentro as mp
 import pandas as pd
 import numpy as np
 import altair as alt
