@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_lottie import st_lottie
-import main as mp
+import INTERVIEW.INCENTRO.STREAMLIT.main_incentro as mp
 import time
 
 if not st.session_state.page == "Contact":

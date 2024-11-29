@@ -1,5 +1,5 @@
 import streamlit as st
-import main as mp
+import INTERVIEW.COGNIZANT.STREAMLIT.main_cognizant as mp
 import pandas as pd
 import numpy as np
 import altair as alt

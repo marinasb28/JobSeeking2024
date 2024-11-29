@@ -3,7 +3,7 @@ import pandas as pd
 import pickle
 import matplotlib.pyplot as plt
 import numpy as np
-import main as mp
+import INTERVIEW.INCENTRO.STREAMLIT.main_incentro as mp
 
 if not st.session_state.page == "Prediction":
     st.set_page_config(
