@@ -122,14 +122,14 @@ def main():
                 "font-size": "20px",  # Adjust font size for the text
                 "text-align": "center",
                 "margin": "0 5px",  # Adjust margin for spacing
-                "--hover-color": "orange",
+                "--hover-color": "#82C7DE",
                 "padding": "10px",  # Uniform padding for links
                 "display": "flex",
                 "align-items": "center",
                 "white-space": "nowrap",  # Prevent text wrapping
             },
             "nav-link-selected": {
-                "background-color": "orange",
+                "background-color": "#82C7DE",
                 "color": "white",
                 "margin": "0 5px",  # Same margin as other links
             }

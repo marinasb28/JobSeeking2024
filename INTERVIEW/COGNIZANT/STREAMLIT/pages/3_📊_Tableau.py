@@ -70,7 +70,7 @@ df = pd.read_csv(mp.hr_records)
 df.columns = [col.replace('_', ' ').title() for col in df.columns]
 
 # EDA PART
-st.markdown("<h1>Human <span style='color: orange;'>Resources</span> Dataframe</h1>",
+st.markdown("<h1>Human <span style='color: #82C7DE;'>Resources</span> Dataframe</h1>",
             unsafe_allow_html=True)
 st.dataframe(df.set_index(df.columns[0]))
 

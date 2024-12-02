@@ -40,7 +40,7 @@ home = current_dir /"pages"/"1_🏘️_Home.py"
 about_me = current_dir /"pages"/"2_👩🏾‍🎓_About.py"
 tableau_pg = current_dir/"pages"/"3_📊_Tableau.py"
 prediction_pg = current_dir/"pages"/"4_🔮_Prediction.py"
-contact_me = current_dir /"pages"/"5_📧_Contact.py"
+contact_me = current_dir /"pages"/"9_📧_Contact.py"
 
 # DATA
 hr_records = current_dir.parent/"TABLEAU"/"HR_data.csv"

@@ -38,7 +38,7 @@ else:
 st.title(greeting)
 st.subheader(f"It's {current_date} and...")
 
-# INCENTRO VIDEO
+# COGNIZANT VIDEO
 
 # Progress bar - COUNTDOWN
 my_bar,vid = st.progress(0),False
@@ -101,13 +101,13 @@ st.markdown('<h2 style="text-align: center; color: #82C7DE">Own it</h2>', unsafe
 
 # SIDEBAR
 st.sidebar.divider()
-st.sidebar.header("Incentro's Info")
+st.sidebar.header("Cognizants's Info")
 
 #NOTE: cambiar logos y links
 st.sidebar.markdown(
     '''
     <a href="https://www.cognizant.com/nl/en" target="_blank" style="font-size:17px; text-decoration: none; color: black;">
-        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEjGsZx6VLVvw/company-logo_200_200/company-logo_200_200/0/1637333962978/incentro_logo?e=1738195200&v=beta&t=VSbCijhM-A-bW7SQomNChsBgg9LQFIIsyyfhvtG1SsE" alt="Cognizant Logo" width="20" style="vertical-align:middle; margin-right:5px; border-radius: 50%;">
+        <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHjkUYrDIUKYA/company-logo_200_200/company-logo_200_200/0/1719839886088/cognizant_logo?e=1741219200&v=beta&t=WcOI8tNWFL49wujBg-Hw-a1kX1OP2LkAM9zjVctuf1Q" alt="Cognizant Logo" width="20" style="vertical-align:middle; margin-right:5px; border-radius: 50%;">
         Cognizant's Page
     </a>
     ''',
@@ -116,8 +116,8 @@ st.sidebar.markdown(
 st.sidebar.write("")
 st.sidebar.markdown(
     '''
-    <a href="https://careers.incentro.com/en/vacancies" target="_blank" style="font-size:17px; text-decoration: none; color: black;">
-        <img src="https://media.licdn.com/dms/image/v2/C4D0BAQEjGsZx6VLVvw/company-logo_200_200/company-logo_200_200/0/1637333962978/incentro_logo?e=1738195200&v=beta&t=VSbCijhM-A-bW7SQomNChsBgg9LQFIIsyyfhvtG1SsE" alt="Incentro Logo" width="20" style="vertical-align:middle; margin-right:5px; border-radius: 50%;">
+    <a href="https://careers.cognizant.com/global-en/" target="_blank" style="font-size:17px; text-decoration: none; color: black;">
+        <img src="https://media.licdn.com/dms/image/v2/D4E0BAQHjkUYrDIUKYA/company-logo_200_200/company-logo_200_200/0/1719839886088/cognizant_logo?e=1741219200&v=beta&t=WcOI8tNWFL49wujBg-Hw-a1kX1OP2LkAM9zjVctuf1Q" alt="Cognizant Logo" width="20" style="vertical-align:middle; margin-right:5px; border-radius: 50%;">
         Vacancies
     </a>
     ''',
@@ -126,7 +126,7 @@ st.sidebar.markdown(
 st.sidebar.write("")
 st.sidebar.markdown(
     '''
-    <a href="https://www.linkedin.com/company/incentro/?originalSubdomain=nl" target="_blank" style="font-size:17px; text-decoration: none; color: black;">
+    <a href="https://www.linkedin.com/company/cognizant/posts/?feedView=all" target="_blank" style="font-size:17px; text-decoration: none; color: black;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" style="vertical-align:middle; margin-right:5px;">
         LinkedIn
     </a>
