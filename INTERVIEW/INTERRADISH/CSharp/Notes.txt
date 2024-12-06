@@ -1,0 +1,9 @@
+T1 -> https://www.youtube.com/watch?v=L-f8u0hwi4Y
+T2 -> https://www.youtube.com/watch?v=gfkTfcpWqAY
+
+CODE SNIPPETS
+cw -> Console.WriteLine...
+
+DOTNET COMMANDS
+* Crear proyecto -> dotnet new console
+* Ejecutar archivo -> dotnet run
