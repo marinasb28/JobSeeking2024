@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/bin/Debug/net9.0/1_HelloWorld.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/refint/1_HelloWorld.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/1_HelloWorld.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/1_HelloWorld/obj/Debug/net9.0/ref/1_HelloWorld.dll
