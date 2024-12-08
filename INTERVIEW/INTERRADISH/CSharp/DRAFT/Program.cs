@@ -6,31 +6,24 @@ namespace CSHARP
     {
         static void Main(string[] args)
         {
-            /*try
-            {
-                *
-                var number = "1234";
-                byte b = Convert.ToByte(number);
-                Console.WriteLine(b);
-                *
+           for (int i = 1; i <= 100; i++)
+        {
+            string output = "";
 
-                string str = "true";
-                bool b = Convert.ToBoolean(str);
-                Console.WriteLine(b);
-            }catch (Exception)
-            {
-                Console.WriteLine("The number could not be converted to a byte.");
-            }*/
+            if (i % 3 == 0)
+                output += "Fizz";
+            if (i % 5 == 0)
+                output += "Buzz";
+            if (i % 7 == 0)
+                output += "Bazz";
 
-            int a = 2;
-            Console.WriteLine($"Original value: {a}");
-            int b = ++a;
-            Console.WriteLine($"a = {a}\n++a = {b}");
+            // Si el resultado está vacío, solo mostrar el número
+            if (output == "")
+                //output = i.ToString();
+                output = Convert.ToString(i);
 
-            int c = 2;
-            Console.WriteLine($"Original value: {c}");
-            int d = a++;
-            Console.WriteLine($"c = {c}\nc++ = {d}");
+            Console.WriteLine(output);
+        }
         }
     }
 }
