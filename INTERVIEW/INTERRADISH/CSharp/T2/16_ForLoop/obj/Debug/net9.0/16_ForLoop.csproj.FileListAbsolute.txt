@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/bin/Debug/net9.0/16_ForLoop
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/bin/Debug/net9.0/16_ForLoop.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/bin/Debug/net9.0/16_ForLoop.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/bin/Debug/net9.0/16_ForLoop.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/bin/Debug/net9.0/16_ForLoop.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/16_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/16_ForLoop.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/16_ForLoop.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/16_ForLoop.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/16_ForLoop.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/16_ForLoop.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/refint/16_ForLoop.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/16_ForLoop.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/16_ForLoop.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/16_ForLoop/obj/Debug/net9.0/ref/16_ForLoop.dll
