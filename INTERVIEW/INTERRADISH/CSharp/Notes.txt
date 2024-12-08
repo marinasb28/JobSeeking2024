@@ -1,8 +1,3 @@
-T1&2 -> https://www.youtube.com/watch?v=L-f8u0hwi4Y
-T1&2 -> https://www.youtube.com/watch?v=gfkTfcpWqAY
-T2 (4H) -> https://www.youtube.com/watch?v=GhQdlIFylQ8
-T3 (8H) -> https://www.youtube.com/watch?v=YrtFtdTTfv0
-
 CODE SNIPPETS
 cw -> Console.WriteLine...
 
