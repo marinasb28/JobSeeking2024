@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("6_Calculator")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("24_StaticMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+569d19b65ce9646d19001790fdf4c5d3081b4918")]
-[assembly: System.Reflection.AssemblyProductAttribute("6_Calculator")]
-[assembly: System.Reflection.AssemblyTitleAttribute("6_Calculator")]
+[assembly: System.Reflection.AssemblyProductAttribute("24_StaticMethod")]
+[assembly: System.Reflection.AssemblyTitleAttribute("24_StaticMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

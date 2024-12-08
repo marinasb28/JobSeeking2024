@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/bin/Debug/net9.0/24_StaticMethod
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/bin/Debug/net9.0/24_StaticMethod.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/bin/Debug/net9.0/24_StaticMethod.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/bin/Debug/net9.0/24_StaticMethod.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/bin/Debug/net9.0/24_StaticMethod.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/24_StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/24_StaticMethod.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/24_StaticMethod.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/24_StaticMethod.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/24_StaticMethod.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/24_StaticMethod.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/refint/24_StaticMethod.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/24_StaticMethod.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/24_StaticMethod.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/24_StaticMethod/obj/Debug/net9.0/ref/24_StaticMethod.dll

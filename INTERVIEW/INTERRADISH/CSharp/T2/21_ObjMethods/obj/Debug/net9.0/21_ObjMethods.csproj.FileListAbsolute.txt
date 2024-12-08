@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/21_ObjMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/21_ObjMethods.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/21_ObjMethods.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/21_ObjMethods.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/21_ObjMethods.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/bin/Debug/net9.0/21_ObjMethods
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/bin/Debug/net9.0/21_ObjMethods.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/bin/Debug/net9.0/21_ObjMethods.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/bin/Debug/net9.0/21_ObjMethods.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/bin/Debug/net9.0/21_ObjMethods.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/21_ObjMethods.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/refint/21_ObjMethods.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/21_ObjMethods.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/21_ObjMethods.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/21_ObjMethods/obj/Debug/net9.0/ref/21_ObjMethods.dll

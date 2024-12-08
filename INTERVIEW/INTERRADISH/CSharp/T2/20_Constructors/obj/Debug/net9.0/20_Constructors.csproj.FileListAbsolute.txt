@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/bin/Debug/net9.0/20_Constructors
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/bin/Debug/net9.0/20_Constructors.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/bin/Debug/net9.0/20_Constructors.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/bin/Debug/net9.0/20_Constructors.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/bin/Debug/net9.0/20_Constructors.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/20_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/20_Constructors.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/20_Constructors.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/20_Constructors.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/20_Constructors.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/20_Constructors.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/refint/20_Constructors.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/20_Constructors.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/20_Constructors.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/T2/20_Constructors/obj/Debug/net9.0/ref/20_Constructors.dll
