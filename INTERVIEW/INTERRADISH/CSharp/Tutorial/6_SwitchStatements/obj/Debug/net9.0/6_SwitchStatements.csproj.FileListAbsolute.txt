@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/6_SwitchStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/6_SwitchStatements.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/6_SwitchStatements.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/6_SwitchStatements.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/6_SwitchStatements.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/bin/Debug/net9.0/6_SwitchStatements
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/bin/Debug/net9.0/6_SwitchStatements.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/bin/Debug/net9.0/6_SwitchStatements.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/bin/Debug/net9.0/6_SwitchStatements.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/bin/Debug/net9.0/6_SwitchStatements.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/6_SwitchStatements.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/refint/6_SwitchStatements.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/6_SwitchStatements.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/6_SwitchStatements.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/6_SwitchStatements/obj/Debug/net9.0/ref/6_SwitchStatements.dll
