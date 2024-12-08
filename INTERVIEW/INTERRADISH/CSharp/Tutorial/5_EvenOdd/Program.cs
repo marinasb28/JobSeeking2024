@@ -17,6 +17,18 @@
             int age = int.Parse(Console.ReadLine());
 
             Console.WriteLine($"{name}, {age} years old");
+
+            // ** IF STATEMENTS ** \\
+            if(age < 18)
+            {
+                Console.WriteLine("<18");
+            }else if(age >= 18 && age <= 25)
+            {
+                Console.WriteLine("Between 18 & 25");
+            }else
+            {
+                Console.WriteLine("+25");
+            }
         }
     }
 }
