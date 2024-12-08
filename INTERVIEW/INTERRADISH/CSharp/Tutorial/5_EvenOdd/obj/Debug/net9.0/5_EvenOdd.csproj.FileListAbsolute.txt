@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/5_EvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/5_EvenOdd.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/5_EvenOdd.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/5_EvenOdd.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/5_EvenOdd.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/bin/Debug/net9.0/5_EvenOdd
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/bin/Debug/net9.0/5_EvenOdd.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/bin/Debug/net9.0/5_EvenOdd.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/bin/Debug/net9.0/5_EvenOdd.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/bin/Debug/net9.0/5_EvenOdd.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/5_EvenOdd.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/refint/5_EvenOdd.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/5_EvenOdd.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/5_EvenOdd.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/5_EvenOdd/obj/Debug/net9.0/ref/5_EvenOdd.dll
