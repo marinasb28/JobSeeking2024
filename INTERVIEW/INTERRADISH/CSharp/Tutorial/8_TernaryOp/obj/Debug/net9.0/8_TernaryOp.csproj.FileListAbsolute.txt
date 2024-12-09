@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/8_TernaryOp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/8_TernaryOp.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/8_TernaryOp.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/8_TernaryOp.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/8_TernaryOp.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/bin/Debug/net9.0/8_TernaryOp
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/bin/Debug/net9.0/8_TernaryOp.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/bin/Debug/net9.0/8_TernaryOp.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/bin/Debug/net9.0/8_TernaryOp.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/bin/Debug/net9.0/8_TernaryOp.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/8_TernaryOp.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/refint/8_TernaryOp.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/8_TernaryOp.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/8_TernaryOp.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/8_TernaryOp/obj/Debug/net9.0/ref/8_TernaryOp.dll

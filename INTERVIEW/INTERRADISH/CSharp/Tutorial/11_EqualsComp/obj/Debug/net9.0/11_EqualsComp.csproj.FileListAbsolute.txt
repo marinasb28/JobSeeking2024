@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/bin/Debug/net9.0/11_EqualsComp
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/bin/Debug/net9.0/11_EqualsComp.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/bin/Debug/net9.0/11_EqualsComp.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/bin/Debug/net9.0/11_EqualsComp.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/bin/Debug/net9.0/11_EqualsComp.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/11_EqualsComp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/11_EqualsComp.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/11_EqualsComp.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/11_EqualsComp.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/11_EqualsComp.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/11_EqualsComp.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/refint/11_EqualsComp.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/11_EqualsComp.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/11_EqualsComp.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/11_EqualsComp/obj/Debug/net9.0/ref/11_EqualsComp.dll
