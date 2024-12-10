@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/18_TriangleArea.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/18_TriangleArea.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/18_TriangleArea.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/18_TriangleArea.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/18_TriangleArea.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/bin/Debug/net9.0/18_TriangleArea
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/bin/Debug/net9.0/18_TriangleArea.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/bin/Debug/net9.0/18_TriangleArea.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/bin/Debug/net9.0/18_TriangleArea.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/bin/Debug/net9.0/18_TriangleArea.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/18_TriangleArea.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/refint/18_TriangleArea.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/18_TriangleArea.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/18_TriangleArea.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/18_TriangleArea/obj/Debug/net9.0/ref/18_TriangleArea.dll

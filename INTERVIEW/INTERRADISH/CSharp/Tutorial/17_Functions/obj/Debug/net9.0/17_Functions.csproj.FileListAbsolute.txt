@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/bin/Debug/net9.0/17_Functions
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/bin/Debug/net9.0/17_Functions.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/bin/Debug/net9.0/17_Functions.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/bin/Debug/net9.0/17_Functions.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/bin/Debug/net9.0/17_Functions.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/17_Functions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/17_Functions.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/17_Functions.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/17_Functions.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/17_Functions.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/17_Functions.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/refint/17_Functions.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/17_Functions.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/17_Functions.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/17_Functions/obj/Debug/net9.0/ref/17_Functions.dll

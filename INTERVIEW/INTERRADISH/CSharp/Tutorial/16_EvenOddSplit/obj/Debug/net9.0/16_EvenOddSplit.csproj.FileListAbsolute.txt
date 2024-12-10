@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/16_EvenOddSplit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/16_EvenOddSplit.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/16_EvenOddSplit.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/16_EvenOddSplit.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/16_EvenOddSplit.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/bin/Debug/net9.0/16_EvenOddSplit
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/bin/Debug/net9.0/16_EvenOddSplit.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/bin/Debug/net9.0/16_EvenOddSplit.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/bin/Debug/net9.0/16_EvenOddSplit.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/bin/Debug/net9.0/16_EvenOddSplit.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/16_EvenOddSplit.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/refint/16_EvenOddSplit.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/16_EvenOddSplit.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/16_EvenOddSplit.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/16_EvenOddSplit/obj/Debug/net9.0/ref/16_EvenOddSplit.dll

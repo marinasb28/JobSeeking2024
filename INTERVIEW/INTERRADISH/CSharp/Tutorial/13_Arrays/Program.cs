@@ -16,9 +16,9 @@ namespace Tutorial
                 triangle[i] = int.Parse(Console.ReadLine());
             }
 
-            foreach (var value in triangle)
+            foreach (var item in triangle)
             {
-                Console.WriteLine(value);
+                Console.WriteLine(item);
             }
 
             Console.WriteLine(triangle.Sum() == 180

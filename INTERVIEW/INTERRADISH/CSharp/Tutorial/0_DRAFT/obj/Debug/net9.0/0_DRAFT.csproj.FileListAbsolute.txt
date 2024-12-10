@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/bin/Debug/net9.0/0_DRAFT
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/bin/Debug/net9.0/0_DRAFT.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/bin/Debug/net9.0/0_DRAFT.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/bin/Debug/net9.0/0_DRAFT.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/bin/Debug/net9.0/0_DRAFT.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/0_DRAFT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/0_DRAFT.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/0_DRAFT.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/0_DRAFT.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/0_DRAFT.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/0_DRAFT.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/refint/0_DRAFT.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/0_DRAFT.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/0_DRAFT.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/0_DRAFT/obj/Debug/net9.0/ref/0_DRAFT.dll

@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/14_Lists.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/14_Lists.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/14_Lists.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/14_Lists.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/14_Lists.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/bin/Debug/net9.0/14_Lists
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/bin/Debug/net9.0/14_Lists.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/bin/Debug/net9.0/14_Lists.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/bin/Debug/net9.0/14_Lists.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/bin/Debug/net9.0/14_Lists.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/14_Lists.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/refint/14_Lists.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/14_Lists.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/14_Lists.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/14_Lists/obj/Debug/net9.0/ref/14_Lists.dll
