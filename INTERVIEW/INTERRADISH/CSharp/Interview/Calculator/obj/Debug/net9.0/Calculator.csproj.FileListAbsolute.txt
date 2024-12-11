@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/Calculator.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/Calculator.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/bin/Debug/net9.0/Calculator
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/bin/Debug/net9.0/Calculator.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/bin/Debug/net9.0/Calculator.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/bin/Debug/net9.0/Calculator.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/bin/Debug/net9.0/Calculator.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/Calculator.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/refint/Calculator.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/Calculator.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/Calculator.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/Calculator/obj/Debug/net9.0/ref/Calculator.dll

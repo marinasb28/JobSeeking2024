@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/3_ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/3_ToDoList.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/3_ToDoList.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/3_ToDoList.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/3_ToDoList.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/bin/Debug/net9.0/3_ToDoList
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/bin/Debug/net9.0/3_ToDoList.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/bin/Debug/net9.0/3_ToDoList.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/bin/Debug/net9.0/3_ToDoList.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/bin/Debug/net9.0/3_ToDoList.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/3_ToDoList.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/refint/3_ToDoList.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/3_ToDoList.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/3_ToDoList.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/3_ToDoList/obj/Debug/net9.0/ref/3_ToDoList.dll

@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/bin/Debug/net9.0/2_DiceGame
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/bin/Debug/net9.0/2_DiceGame.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/bin/Debug/net9.0/2_DiceGame.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/bin/Debug/net9.0/2_DiceGame.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/bin/Debug/net9.0/2_DiceGame.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/2_DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/2_DiceGame.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/2_DiceGame.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/2_DiceGame.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/2_DiceGame.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/2_DiceGame.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/refint/2_DiceGame.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/2_DiceGame.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/2_DiceGame.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/2_DiceGame/obj/Debug/net9.0/ref/2_DiceGame.dll

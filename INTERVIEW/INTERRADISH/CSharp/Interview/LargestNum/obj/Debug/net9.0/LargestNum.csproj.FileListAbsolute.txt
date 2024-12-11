@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/LargestNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/LargestNum.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/LargestNum.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/LargestNum.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/LargestNum.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/bin/Debug/net9.0/LargestNum
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/bin/Debug/net9.0/LargestNum.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/bin/Debug/net9.0/LargestNum.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/bin/Debug/net9.0/LargestNum.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/bin/Debug/net9.0/LargestNum.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/LargestNum.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/refint/LargestNum.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/LargestNum.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/LargestNum.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/LargestNum/obj/Debug/net9.0/ref/LargestNum.dll

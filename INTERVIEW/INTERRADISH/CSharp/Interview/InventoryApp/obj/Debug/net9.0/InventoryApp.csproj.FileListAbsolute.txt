@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/bin/Debug/net9.0/InventoryApp
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/bin/Debug/net9.0/InventoryApp.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/bin/Debug/net9.0/InventoryApp.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/bin/Debug/net9.0/InventoryApp.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/bin/Debug/net9.0/InventoryApp.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/InventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/InventoryApp.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/InventoryApp.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/InventoryApp.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/InventoryApp.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/InventoryApp.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/refint/InventoryApp.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/InventoryApp.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/InventoryApp.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/InventoryApp/obj/Debug/net9.0/ref/InventoryApp.dll

@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/bin/Debug/net9.0/1_Calculator
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/bin/Debug/net9.0/1_Calculator.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/bin/Debug/net9.0/1_Calculator.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/bin/Debug/net9.0/1_Calculator.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/bin/Debug/net9.0/1_Calculator.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/1_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/1_Calculator.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/1_Calculator.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/1_Calculator.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/1_Calculator.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/1_Calculator.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/refint/1_Calculator.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/1_Calculator.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/1_Calculator.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/MiniProjects/1_Calculator/obj/Debug/net9.0/ref/1_Calculator.dll

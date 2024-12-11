@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/bin/Debug/net9.0/CountOcurrences
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/bin/Debug/net9.0/CountOcurrences.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/bin/Debug/net9.0/CountOcurrences.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/bin/Debug/net9.0/CountOcurrences.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/bin/Debug/net9.0/CountOcurrences.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/CountOcurrences.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/CountOcurrences.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/CountOcurrences.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/CountOcurrences.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/CountOcurrences.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/CountOcurrences.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/refint/CountOcurrences.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/CountOcurrences.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/CountOcurrences.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/CountOcurrences/obj/Debug/net9.0/ref/CountOcurrences.dll
