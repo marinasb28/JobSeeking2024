@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/19_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/19_Exceptions.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/19_Exceptions.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/19_Exceptions.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/19_Exceptions.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/bin/Debug/net9.0/19_Exceptions
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/bin/Debug/net9.0/19_Exceptions.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/bin/Debug/net9.0/19_Exceptions.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/bin/Debug/net9.0/19_Exceptions.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/bin/Debug/net9.0/19_Exceptions.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/19_Exceptions.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/refint/19_Exceptions.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/19_Exceptions.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/19_Exceptions.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Tutorial/19_Exceptions/obj/Debug/net9.0/ref/19_Exceptions.dll
