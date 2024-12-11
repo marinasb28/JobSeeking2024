@@ -16,10 +16,17 @@
                 this.birthMonth = birthMonth;
             }
         }
+
+        static int futureAge(int x)
+        {
+            return x + 10;
+        }
         static void Main(string[] args)
         {
             Person person = new Person("Marina",23,7);
             Console.WriteLine($"Name: {person.name}, Age: {person.age}, Birth Month: {person.birthMonth}");
+
+            Console.WriteLine($"In 10 years {person.name} will be {futureAge(person.age)}");
         }
     }
 }
