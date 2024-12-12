@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("2_DiceGame")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("InventoryApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+420a7e97775e31cf27956a59f27810b9f9046ec6")]
-[assembly: System.Reflection.AssemblyProductAttribute("2_DiceGame")]
-[assembly: System.Reflection.AssemblyTitleAttribute("2_DiceGame")]
+[assembly: System.Reflection.AssemblyProductAttribute("InventoryApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("InventoryApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
