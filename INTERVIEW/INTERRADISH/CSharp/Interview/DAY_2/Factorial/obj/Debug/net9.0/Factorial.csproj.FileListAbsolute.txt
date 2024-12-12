@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/bin/Debug/net9.0/Factorial
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/bin/Debug/net9.0/Factorial.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/bin/Debug/net9.0/Factorial.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/bin/Debug/net9.0/Factorial.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/bin/Debug/net9.0/Factorial.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/Factorial.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/Factorial.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/Factorial.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/Factorial.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/Factorial.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/refint/Factorial.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/Factorial.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/Factorial.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/Factorial/obj/Debug/net9.0/ref/Factorial.dll

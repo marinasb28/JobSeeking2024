@@ -1,0 +1,15 @@
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/bin/Debug/net9.0/ReverseString
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/bin/Debug/net9.0/ReverseString.deps.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/bin/Debug/net9.0/ReverseString.runtimeconfig.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/bin/Debug/net9.0/ReverseString.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/bin/Debug/net9.0/ReverseString.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/ReverseString.AssemblyInfoInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/ReverseString.AssemblyInfo.cs
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/ReverseString.csproj.CoreCompileInputs.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/ReverseString.sourcelink.json
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/ReverseString.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/refint/ReverseString.dll
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/ReverseString.pdb
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/ReverseString.genruntimeconfig.cache
+/Users/marinasb28/GitHub/JobSeeking2024/INTERVIEW/INTERRADISH/CSharp/Interview/DAY_2/ReverseString/obj/Debug/net9.0/ref/ReverseString.dll
